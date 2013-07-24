@@ -32,8 +32,6 @@ describe("A suite", function() {
 });
 ````
 
-##  It’s Just Functions
-
 ##  それは単なる関数です。
 
 describe または it ブロックは関数であるため、テストを実施するために必要ないかなるコードも含めることができます。
@@ -52,8 +50,6 @@ describe("A suite is just a function", function() {
   });
 });
 ````
-
-## Expectations
 
 ## 期待式
 
@@ -81,8 +77,6 @@ describe("The 'toBe' matcher compares with ===", function() {
   });
 });
 ````
-
-## Included Matchers
 
 ## 同梱の Matcher 関数
 
